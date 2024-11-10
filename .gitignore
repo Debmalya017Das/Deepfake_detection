@@ -1,0 +1,6 @@
+myenv
+venv
+__pycache__
+datasets
+data
+models/checkpoints/
